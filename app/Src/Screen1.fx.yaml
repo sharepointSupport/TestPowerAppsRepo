@@ -3,9 +3,6 @@ Screen1 As screen:
 
     Label1 As label:
         BorderColor: =RGBA(32, 54, 71, 1)
-        Color: =RGBA(0, 0, 0, 1)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        Size: =13
         Text: ="Text"
         X: =40
         Y: =40
@@ -13,18 +10,15 @@ Screen1 As screen:
 
     TextInput1 As text:
         BorderColor: =RGBA(32, 54, 71, 1)
-        BorderThickness: =2
-        Color: =RGBA(0, 0, 0, 1)
         Default: ="Text input"
-        DisabledBorderColor: =RGBA(166, 166, 166, 1)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        FocusedBorderThickness: =4
         HoverBorderColor: =RGBA(32, 54, 71, 1)
-        HoverColor: =RGBA(0, 0, 0, 1)
         HoverFill: =RGBA(205, 209, 213, 1)
-        Size: =13
         X: =376
         Y: =40
         ZIndex: =2
+
+    DatePicker3 As datepicker:
+        X: =26
+        Y: =210
+        ZIndex: =3
 

@@ -1,9 +1,25 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "DatePicker1": 10,
+    "DatePicker2": 13,
+    "DatePicker3": 5,
+    "Image1": 11,
+    "Label1": 4,
+    "Label2": 14,
+    "LeftSideContainer1": 9,
+    "RightSideContainer1": 12,
+    "Screen1": 3,
+    "Screen2": 7,
+    "Screen3": 15,
+    "ScreenContainer1": 8,
+    "TextInput1": 6
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "01/19/2023 05:34:42",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -15,11 +31,63 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "datepicker": 1,
+    "groupContainer": 3,
+    "image": 4,
+    "label": 0,
+    "text": 2
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "DatePicker1": {},
+    "DatePicker2": {},
+    "DatePicker3": {},
+    "Image1": {},
+    "Label1": {},
+    "Label2": {},
+    "LeftSideContainer1": {},
+    "RightSideContainer1": {},
+    "Screen1": {},
+    "Screen2": {},
+    "Screen3": {},
+    "ScreenContainer1": {},
+    "TextInput1": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "DatePicker1": 10,
+    "DatePicker2": 12,
+    "DatePicker3": 4,
+    "Image1": 11,
+    "Label1": 3,
+    "Label2": 13,
+    "LeftSideContainer1": 8,
+    "RightSideContainer1": 9,
+    "Screen1": 2,
+    "Screen2": 6,
+    "Screen3": 14,
+    "ScreenContainer1": 7,
+    "TextInput1": 5
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0623257,
+    "ControlCount": {
+      "datepicker": 3,
+      "groupContainer": 3,
+      "image": 1,
+      "label": 2,
+      "screen": 3,
+      "text": 1
+    },
+    "DeserializationLoadTime": 0.4753867,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }

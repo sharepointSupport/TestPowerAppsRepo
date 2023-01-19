@@ -1,21 +1,9 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "DatePicker1": 10,
-    "DatePicker2": 11,
-    "Label1": 4,
-    "LeftSideContainer1": 8,
-    "RightSideContainer1": 9,
-    "Screen1": 3,
-    "Screen2": 6,
-    "ScreenContainer1": 7,
-    "TextInput1": 5
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/19/2023 05:29:23",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -27,49 +15,11 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "datepicker": 3,
-    "groupContainer": 2,
-    "label": 0,
-    "text": 1
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "DatePicker1": {},
-    "DatePicker2": {},
-    "Label1": {},
-    "LeftSideContainer1": {},
-    "RightSideContainer1": {},
-    "Screen1": {},
-    "Screen2": {},
-    "ScreenContainer1": {},
-    "TextInput1": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "DatePicker1": 0,
-    "DatePicker2": 0,
-    "Label1": 0,
-    "LeftSideContainer1": 0,
-    "RightSideContainer1": 0,
-    "Screen1": 0,
-    "Screen2": 0,
-    "ScreenContainer1": 0,
-    "TextInput1": 0
-  },
+  "PublishOrderIndices": {},
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0664953,
-    "ControlCount": {
-      "label": 1,
-      "screen": 1,
-      "text": 1
-    },
-    "DeserializationLoadTime": 1.0078523,
-    "ErrorCount": 0
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }

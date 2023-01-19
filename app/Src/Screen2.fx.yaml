@@ -1,4 +1,5 @@
 "Screen2 As screen.'tabletAutoLayout_SplitScreen_ver1.0'":
+    LoadingSpinnerColor: =RGBA(100, 118, 132, 1)
 
     ScreenContainer1 As groupContainer.horizontalAutoLayoutContainer:
         Height: =Parent.Height
@@ -15,7 +16,22 @@
             ZIndex: =2
 
             DatePicker1 As datepicker:
+                BorderColor: =RGBA(32, 54, 71, 1)
+                CalendarHeaderFill: =RGBA(100, 118, 132, 1)
+                Color: =RGBA(0, 0, 0, 1)
+                DisabledBorderColor: =RGBA(166, 166, 166, 1)
+                DisabledColor: =RGBA(166, 166, 166, 1)
+                DisabledFill: =RGBA(244, 244, 244, 1)
+                HoverDateFill: =RGBA(205, 209, 213, 1)
+                IconBackground: =RGBA(100, 118, 132, 1)
+                SelectedDateFill: =RGBA(100, 118, 132, 1)
                 ZIndex: =1
+
+            Image1 As image:
+                BorderColor: =RGBA(32, 54, 71, 1)
+                DisabledBorderColor: =RGBA(166, 166, 166, 1)
+                DisabledFill: =RGBA(244, 244, 244, 1)
+                ZIndex: =2
 
         RightSideContainer1 As groupContainer.verticalAutoLayoutContainer:
             LayoutDirection: =LayoutDirection.Vertical
@@ -25,5 +41,22 @@
             ZIndex: =3
 
             DatePicker2 As datepicker:
+                BorderColor: =RGBA(32, 54, 71, 1)
+                CalendarHeaderFill: =RGBA(100, 118, 132, 1)
+                Color: =RGBA(0, 0, 0, 1)
+                DisabledBorderColor: =RGBA(166, 166, 166, 1)
+                DisabledColor: =RGBA(166, 166, 166, 1)
+                DisabledFill: =RGBA(244, 244, 244, 1)
+                HoverDateFill: =RGBA(205, 209, 213, 1)
+                IconBackground: =RGBA(100, 118, 132, 1)
+                SelectedDateFill: =RGBA(100, 118, 132, 1)
                 ZIndex: =1
+
+            Label2 As label:
+                BorderColor: =RGBA(32, 54, 71, 1)
+                Color: =RGBA(0, 0, 0, 1)
+                DisabledColor: =RGBA(166, 166, 166, 1)
+                Size: =13
+                Text: ="Text"
+                ZIndex: =2
 

@@ -1,23 +1,9 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "DatePicker1": 9,
-    "DatePicker2": 11,
-    "Image1": 13,
-    "Label1": 4,
-    "Label2": 12,
-    "LeftSideContainer1": 8,
-    "RightSideContainer1": 10,
-    "Screen1": 3,
-    "Screen2": 6,
-    "ScreenContainer1": 7,
-    "TextInput1": 5
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/19/2023 05:29:12",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -29,58 +15,11 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "datepicker": 3,
-    "groupContainer": 2,
-    "image": 4,
-    "label": 0,
-    "text": 1
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "DatePicker1": {},
-    "DatePicker2": {},
-    "Image1": {},
-    "Label1": {},
-    "Label2": {},
-    "LeftSideContainer1": {},
-    "RightSideContainer1": {},
-    "Screen1": {},
-    "Screen2": {},
-    "ScreenContainer1": {},
-    "TextInput1": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "DatePicker1": 0,
-    "DatePicker2": 0,
-    "Image1": 0,
-    "Label1": 0,
-    "Label2": 0,
-    "LeftSideContainer1": 0,
-    "RightSideContainer1": 0,
-    "Screen1": 0,
-    "Screen2": 0,
-    "ScreenContainer1": 0,
-    "TextInput1": 0
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.1422809,
-    "ControlCount": {
-      "datepicker": 2,
-      "groupContainer": 3,
-      "label": 1,
-      "screen": 2,
-      "text": 1
-    },
-    "DeserializationLoadTime": 0.7133691,
-    "ErrorCount": 0
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }

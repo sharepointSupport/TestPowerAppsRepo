@@ -1,23 +1,9 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "DatePicker1": 9,
-    "DatePicker2": 12,
-    "Image1": 10,
-    "Label1": 4,
-    "Label2": 13,
-    "LeftSideContainer1": 8,
-    "RightSideContainer1": 11,
-    "Screen1": 3,
-    "Screen2": 6,
-    "ScreenContainer1": 7,
-    "TextInput1": 5
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/19/2023 05:31:40",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -29,59 +15,11 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "datepicker": 3,
-    "groupContainer": 2,
-    "image": 4,
-    "label": 0,
-    "text": 1
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "DatePicker1": {},
-    "DatePicker2": {},
-    "Image1": {},
-    "Label1": {},
-    "Label2": {},
-    "LeftSideContainer1": {},
-    "RightSideContainer1": {},
-    "Screen1": {},
-    "Screen2": {},
-    "ScreenContainer1": {},
-    "TextInput1": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "DatePicker1": 9,
-    "DatePicker2": 11,
-    "Image1": 10,
-    "Label1": 3,
-    "Label2": 12,
-    "LeftSideContainer1": 7,
-    "RightSideContainer1": 8,
-    "Screen1": 2,
-    "Screen2": 5,
-    "ScreenContainer1": 6,
-    "TextInput1": 4
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0450355,
-    "ControlCount": {
-      "datepicker": 2,
-      "groupContainer": 3,
-      "image": 1,
-      "label": 2,
-      "screen": 2,
-      "text": 1
-    },
-    "DeserializationLoadTime": 0.4061026,
-    "ErrorCount": 0
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
